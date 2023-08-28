@@ -14,6 +14,6 @@ const SetupPage = () => {
     }
   }, [isOpen, onOpen]);
 
-  return <div className="px-4 py-2">Root Page</div>;
+  return null;
 };
 export default SetupPage;
